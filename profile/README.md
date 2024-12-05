@@ -11,7 +11,7 @@
 <!-- Techno stack-->
 <div id="user-content-toc">
     <ul align="center">
-        <summary><h2 style="display: inline-block">Stacks that we use (currently)</h2></summary>
+        <summary><h2 style="display: inline-block">Stacks that I use (currently)</h2></summary>
     </ul>
 </div>
 
