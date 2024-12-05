@@ -2,7 +2,7 @@
 <div id="user-content-toc">
     <ul align="center">
         <summary><h1 style="display: inline-block">Hello! Welcome to the NexM organization. 👋</h1></summary>
-        This organization is owned by @Nexus0821]
+        This organization is owned by @nexusverypro
     </ul>
 </div>
 
